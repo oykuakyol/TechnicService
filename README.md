@@ -1,4 +1,4 @@
-# TechnicService
+# TechnicServiceApp
 Login Authentication and Main Form Flow (C# WinForms)
 
 This project demonstrates a simple structure where the user first logs in through an authentication form, and upon successful login, is redirected to the main form where all operations are performed.
